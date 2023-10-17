@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "defer.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "cmake.sourceDirectory": "/home/hb/newoai/flexric"
+}
